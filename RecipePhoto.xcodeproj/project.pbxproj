@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65B26B0119C4376B002711EA /* photo-frame-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 65B26B0019C4376B002711EA /* photo-frame-selected.png */; };
 		65C010DE19BE2F7400827813 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65C010DD19BE2F7400827813 /* Foundation.framework */; };
 		65C010E019BE2F7400827813 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65C010DF19BE2F7400827813 /* CoreGraphics.framework */; };
 		65C010E219BE2F7400827813 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65C010E119BE2F7400827813 /* UIKit.framework */; };
@@ -56,6 +57,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		65B26B0019C4376B002711EA /* photo-frame-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "photo-frame-selected.png"; sourceTree = "<group>"; };
 		65C010DA19BE2F7400827813 /* RecipePhoto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecipePhoto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65C010DD19BE2F7400827813 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		65C010DF19BE2F7400827813 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -159,6 +161,7 @@
 		65C010E319BE2F7400827813 /* RecipePhoto */ = {
 			isa = PBXGroup;
 			children = (
+				65B26B0019C4376B002711EA /* photo-frame-selected.png */,
 				65C0113719BF64F000827813 /* collection-view-footer.png */,
 				65C0113819BF64F000827813 /* collection-view-header.png */,
 				65C0111519BE393200827813 /* angry_birds_cake.jpg */,
@@ -309,6 +312,7 @@
 				65C0113219BE393200827813 /* photo-frame.png in Resources */,
 				65C0112E19BE393200827813 /* instant_noodle_with_egg.jpg in Resources */,
 				65C0112D19BE393200827813 /* hamburger.jpg in Resources */,
+				65B26B0119C4376B002711EA /* photo-frame-selected.png in Resources */,
 				65C0113119BE393200827813 /* noodle_with_bbq_pork.jpg in Resources */,
 				65C0113919BF64F000827813 /* collection-view-footer.png in Resources */,
 				65C0113319BE393200827813 /* starbucks_coffee.jpg in Resources */,
